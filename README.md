@@ -69,4 +69,4 @@ python scripts/model_injury_risk.py
 ```
 
 ## Author
-**Shivansh Pandey** — Data Analyst
+**Shivansh Pandey** 
